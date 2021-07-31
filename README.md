@@ -40,6 +40,11 @@ def calc_distance(a.b):
 ```
 ### Model Evaluation
 
+<details>
+  <summary>why?</summary>
+  Details are here
+ </details>
+
 ### Results and Recommendation
 
 
