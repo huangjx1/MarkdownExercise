@@ -21,9 +21,6 @@ Here are my data sources:
 | sepal length | This is the sepal length |
 
 
-
-
-
 #### Data Processing
 
 What I did to explore data.  
@@ -37,7 +34,10 @@ What I did to explore data.
 3. Log transform on Z feature
 
 ### Modelling
-
+```
+def calc_distance(a.b):
+  return a+b
+```
 ### Model Evaluation
 
 ### Results and Recommendation
