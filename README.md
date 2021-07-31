@@ -19,14 +19,14 @@ Here are my data sources:
 #### Data Processing
 
 What I did to explore data.  
-Clean data. <br>
-Missing data
+**Clean data.** <br>
+***Missing data.***
 
 
 ### Features
 1. StandardScaler on X feature
-1. MinMaxScaler on Y feature
-1. Log transform on Z feature
+2. MinMaxScaler on Y feature
+3. Log transform on Z feature
 
 ### Modelling
 
