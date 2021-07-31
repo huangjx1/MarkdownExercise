@@ -29,7 +29,7 @@ What I did to explore data.
 
 
 ### Features
-1. StandardScaler on X feature
+1. <span style="color:red">StandardScaler</span> on X feature
 2. MinMaxScaler on Y feature
 3. Log transform on Z feature
 
@@ -47,4 +47,5 @@ def calc_distance(a.b):
 
 ### Results and Recommendation
 :heart_eyes:
+
 
